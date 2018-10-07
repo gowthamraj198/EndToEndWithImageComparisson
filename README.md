@@ -1,5 +1,3 @@
-[![EndToEndWithImageComparison]]
-
 # End To End Test Framework With Image Comparison
 
 Run End to end tests on current and reference pages, capture screenshots and compare them for any differences 
@@ -87,8 +85,8 @@ bundle exec rake task_name
 ```
 
 ##Example
-[![Refer sample screenshot]]
+Refer sample screenshot
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/teachbase/imatcher.
+Bug reports and pull requests are welcome on GitHub
