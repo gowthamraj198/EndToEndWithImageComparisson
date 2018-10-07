@@ -77,14 +77,14 @@ res = Imatcher::Matcher.new(options).compare(path_1, path_2)
 
 ```
 
-##Execution
+## Execution
 
 ```ruby
 bundle install
 bundle exec rake task_name
 ```
 
-##Example
+## Example
 Refer sample screenshot
 
 ## Contributing
