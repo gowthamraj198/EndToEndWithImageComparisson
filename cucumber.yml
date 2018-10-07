@@ -1,0 +1,6 @@
+---
+parallel: "--format pretty -x --format json --out output/json_reports/json_report<%=
+  ENV['TEST_ENV_NUMBER'] %>.json --format html --out output/html_reports/report<%=
+  ENV['TEST_ENV_NUMBER']%>.html"
+current_test_vrt_url: https://currentmillis.com/
+reference_test_vrt_url: https://currentmillis.com/
