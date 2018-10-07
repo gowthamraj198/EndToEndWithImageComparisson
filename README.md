@@ -85,7 +85,7 @@ bundle exec rake task_name
 ```
 
 ## Example
-Refer sample screenshot
+![picture](result/current_time.png)
 
 ## Contributing
 
