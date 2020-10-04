@@ -113,7 +113,7 @@ GEM
       cliver (~> 0.3.1)
       websocket-driver (>= 0.2.0)
     public_suffix (3.0.3)
-    puma (3.12.0)
+    puma (3.12.6)
     rack (2.2.3)
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
@@ -189,7 +189,7 @@ DEPENDENCIES
   listen
   parallel_tests
   poltergeist
-  puma (~> 3.11)
+  puma (~> 3.12)
   report_builder
   sass-rails (~> 5.0)
   selenium-webdriver
